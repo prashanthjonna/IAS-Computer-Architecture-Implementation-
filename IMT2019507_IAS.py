@@ -1,5 +1,5 @@
 # IAS implementation in python
-
+# part of computer architecture course in the third sem
 
 def get_modulus(x):
 
